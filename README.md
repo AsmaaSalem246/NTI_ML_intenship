@@ -17,4 +17,7 @@ Each notebook demonstrates practical implementations and experiments using real 
 ---
 
 ## 📊 Datasets Used
+##  Dataset
+Dataset: [CustomerChurn (Kaggle)](https://www.kaggle.com/datasets/rangalamahesh/bank-churn)
+
 
